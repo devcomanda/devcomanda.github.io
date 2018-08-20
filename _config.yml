@@ -15,6 +15,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devcomanda.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devcomanda1
 github_username:  devcomanda
+facebook_username: devcomanda
+google_analytics: UA-124320630-1
+
 
 # Build settings
 markdown: kramdown
