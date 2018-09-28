@@ -13,6 +13,8 @@ categories: [meetup,java]
 
 для оперативного общения наш [telegram]
 
+### Несколько фото со встречи:
+
 {% include image-gallery.html folder="/images/meetups/23092018" %}
 
 [telegram]: https://t.me/devcomanda
