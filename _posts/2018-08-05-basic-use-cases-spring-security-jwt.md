@@ -24,6 +24,10 @@ categories: [meetup,java]
 
 для оперативного общения наш [telegram]
 
+{% raw %}
+<iframe width="860" height="686" src="https://www.youtube.com/embed/ymHO7Y8XYBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endraw %}
+
 ### Что можно почитать по теме:
 
 - [Spring Docs](https://docs.spring.io/…/5.0.7.RELEASE/reference/htmlsingle/)

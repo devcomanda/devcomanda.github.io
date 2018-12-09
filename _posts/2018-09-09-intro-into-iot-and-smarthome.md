@@ -27,6 +27,11 @@ categories: [meetup,iot,smarthome]
 - [slides]
 - [github]
 - [video] вторая половина видео получилась без звука :( 
+
+{% raw %}
+<iframe width="860" height="686" src="https://www.youtube.com/embed/nvIO0H6eD-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endraw %}
+
 - Несколько live streams:
 
 {% raw %}
