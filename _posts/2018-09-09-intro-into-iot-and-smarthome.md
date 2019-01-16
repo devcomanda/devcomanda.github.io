@@ -26,25 +26,15 @@ categories: [meetup,iot,smarthome]
 
 - [slides]
 - [github]
-- [video] вторая половина видео получилась без звука :( 
+- [video] вторая половина видео получилась без звука :(
+
+для оперативного общения наш [telegram]
 
 {% raw %}
 <iframe width="860" height="686" src="https://www.youtube.com/embed/nvIO0H6eD-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endraw %}
 
-- Несколько live streams:
-
-{% raw %}
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdevcomanda%2Fvideos%2F2096977333688460%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-{% endraw %}
-
-{% raw %}
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdevcomanda%2Fvideos%2F267398567440689%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-{% endraw %}
-
-для оперативного общения наш [telegram]
-
 [slides]: https://goo.gl/T9R35C
 [telegram]: https://t.me/devcomanda
-[github]: https://github.com/devcomanda/iot-examples
+[github]: hhttps://github.com/devcomanda/iot-examples/tree/master/Meetup1
 [video]: https://youtu.be/nvIO0H6eD-o
