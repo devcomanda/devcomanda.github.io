@@ -1,0 +1,19 @@
+- name: Java
+  desc: |
+    Темы про JavaSE, JavaEE и все что с ними связанно.
+  tag_name: java
+
+- name: Database 
+  desc: |
+    Как работают БД и как нам с ними работать.
+  tag_name: database
+
+- name: JavaScript
+  desc: |
+    Основы JS, HTML. Как создавать web приложения.
+  tag_name: javascript
+
+- name: IoT and SmartHome
+  desc: |
+    Технологии, которые помогают сделать наш дом умнее :smile:
+  tag_name: iot
