@@ -17,3 +17,8 @@
   desc: |
     Технологии, которые помогают сделать наш дом умнее :smile:
   tag_name: iot
+  
+- name: Motivation
+  desc: |
+    Заряд мотивацией и истории успеха наших коллег:
+  tag_name: motivation
