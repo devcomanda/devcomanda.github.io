@@ -19,5 +19,7 @@ categories: [meetup, java]
 
 - [slides]
 
+{% include image-gallery.html folder="/images/meetups/12052019" %}
+
 [telegram]: https://t.me/devcomanda
 [slides]: https://docs.google.com/presentation/d/1Hadj8tYvnbsS_bVr9Xexssq9fqnrWXECeJAEY6hRgXg/edit?usp=sharing
