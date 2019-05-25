@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-
 <main role="main" class="container">
   <div class="row">
     <div class="col-md-8">
         <div id="series">
+           {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
             {% for series in site.data.series %}
               <h3 id="{{ series.tag_name }}">{{ series.name }}</h3>
               <p>{{ series.desc }}</p>
-          
               <ul>
                 {% for post in site.categories[series.tag_name] %}
-                  <li {% if post.favorite %}class="favorite"{% endif %}>
+                  <li>
                     <a href="{{ post.url }}">{{ post.title }}</a>
+                    <small class="text-muted">{{ post.date | date: date_format }}</small>
                   </li>
                 {% endfor %}
               </ul>

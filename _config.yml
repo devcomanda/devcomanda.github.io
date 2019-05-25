@@ -7,12 +7,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   На своем опыте мы поняли, что учиться намного легче вместе.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devcomanda.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: devcomanda1
-github_username:  devcomanda
-facebook_username: devcomanda
 google_analytics: UA-124320630-1
 
-
+social_links:
+  github: devcomanda
+  twitter:  devcomanda1
+  facebook: devcomanda
+  youtube_channel: UCU8N0JiUME2zgkXYA3AqRJQ
+  youtube_name: devcomanda
+    
 # Build settings
 markdown: kramdown
 plugins:

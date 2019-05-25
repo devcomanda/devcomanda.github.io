@@ -22,3 +22,8 @@
   desc: |
     Заряд мотивацией и истории успеха наших коллег:
   tag_name: motivation
+
+- name: Team games
+  desc: |
+    Коммандная работа:
+  tag_name: teamgame  
