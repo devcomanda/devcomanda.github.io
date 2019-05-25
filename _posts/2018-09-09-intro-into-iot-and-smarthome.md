@@ -30,9 +30,7 @@ categories: [meetup,iot,smarthome]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="686" src="https://www.youtube.com/embed/nvIO0H6eD-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
+{% include embed-youtube.html src="https://www.youtube.com/embed/nvIO0H6eD-o" %}
 
 [slides]: https://goo.gl/T9R35C
 [telegram]: https://t.me/devcomanda

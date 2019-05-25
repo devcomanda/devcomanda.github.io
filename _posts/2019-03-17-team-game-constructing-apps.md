@@ -32,6 +32,6 @@ categories: [meetup]
 - Делаем презентации результатов
 - Обсуждаем
 
-{% include image-gallery.html folder="/images/meetups/17032019" %}
+{% include image-gallery.html folder="/assets/images/meetups/17032019" %}
 
 [telegram]: https://t.me/devcomanda

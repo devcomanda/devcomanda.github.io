@@ -15,7 +15,7 @@ categories: [meetup,java]
 
 ### Несколько фото со встречи:
 
-{% include image-gallery.html folder="/images/meetups/23092018" %}
+{% include image-gallery.html folder="/assets/images/meetups/23092018" %}
 
 [telegram]: https://t.me/devcomanda
 [вопросы]: https://tinyurl.com/ybsb8sqr

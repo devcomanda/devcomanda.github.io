@@ -36,9 +36,7 @@ categories: [meetup,java]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="686" src="https://www.youtube.com/embed/REMa_ioCJF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
+{% include embed-youtube.html src="https://www.youtube.com/embed/REMa_ioCJF4" %}
 
 [Slide - Java HasMap]: https://docs.google.com/presentation/d/1DAyjE94OOENWIx8EOszxVHggzMvjxWu4kXrj0JpkYg4/edit?usp=sharing
 [Slide - Deploy Java Applications]: https://docs.google.com/presentation/d/1-60KSQs0ijela-yuVJwmV5pzSUuJBxFVaHZeNoZiydk/edit?usp=sharing

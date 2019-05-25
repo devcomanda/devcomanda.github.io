@@ -31,9 +31,7 @@ categories: [meetup,java]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="686" src="https://www.youtube.com/embed/_DRHoYJh5zU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
+{% include embed-youtube.html src="https://www.youtube.com/embed/_DRHoYJh5zU" %}
 
 [Spring MVC]: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 [Spring Data]: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html

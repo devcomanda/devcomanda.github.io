@@ -25,10 +25,7 @@ categories: [meetup,java]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="620" src="https://www.youtube.com/embed/TssH7ZjCgno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
-
+{% include embed-youtube.html src="https://www.youtube.com/embed/TssH7ZjCgno" %}
 
 [telegram]: t.me/devcomanda
 [презентация]: http://tiny.cc/fxoixy

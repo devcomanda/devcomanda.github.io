@@ -5,7 +5,7 @@ date:   2019-05-12 16:00:00 +0300
 categories: [meetup, java]
 ---
 
-Спикер: Максим Федосов
+Спикер: Влас Берляев
 
 #### План:
 
@@ -19,7 +19,7 @@ categories: [meetup, java]
 
 - [slides]
 
-{% include image-gallery.html folder="/images/meetups/12052019" %}
+{% include image-gallery.html folder="/assets/images/meetups/12052019" %}
 
 [telegram]: https://t.me/devcomanda
 [slides]: https://docs.google.com/presentation/d/1Hadj8tYvnbsS_bVr9Xexssq9fqnrWXECeJAEY6hRgXg/edit?usp=sharing

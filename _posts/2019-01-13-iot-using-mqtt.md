@@ -28,9 +28,7 @@ categories: [meetup,iot,mqtt,smarthome]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="686" src="https://www.youtube.com/embed/mEpfnCOHSZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
+{% include embed-youtube.html src="https://www.youtube.com/embed/mEpfnCOHSZY" %}
 
 [slides]: https://docs.google.com/presentation/d/1lJe08qbvIazLVnZ-3i6ZvL3BbUFUv6reonA07ukOSqA/edit?usp=sharing
 [telegram]: https://t.me/devcomanda

@@ -20,9 +20,7 @@ categories: [meetup,database]
 
 для оперативного общения наш [telegram]
 
-{% raw %}
-<iframe width="860" height="686" src="https://www.youtube.com/embed/caSQOuTynpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
+{% include embed-youtube.html src="https://www.youtube.com/embed/caSQOuTynpI" %}
 
 [telegram]: https://t.me/devcomanda
 [Презентация]: https://docs.google.com/presentation/d/1t-N7CLuu2rPfCrvZLp-RCnrPKF6lUzwzzU4-MRoJc2Y/edit?usp=sharing
