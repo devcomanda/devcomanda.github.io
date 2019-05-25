@@ -1,9 +1,5 @@
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: DevComanda Community
 email: info@devcomanda.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -19,10 +15,7 @@ google_analytics: UA-124320630-1
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
-  - jemoji
 
 exclude: ["CNAME", "readme.md", "Gemfile", "Gemfile.lock"]

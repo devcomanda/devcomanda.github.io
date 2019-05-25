@@ -8,15 +8,13 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.7.3"
 
-# This is the default theme for new Jekyll sites.
-gem "minima", "~> 2.0"
-
-gem "github-pages", group: :jekyll_plugins
 gem 'commonmarker'
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.9"
+  gem "jekyll-seo-tag", "~> 2.1"
   gem 'jemoji'
+  gem "github-pages"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

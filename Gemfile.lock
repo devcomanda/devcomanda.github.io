@@ -245,9 +245,9 @@ DEPENDENCIES
   commonmarker
   github-pages
   jekyll (~> 3.7.3)
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.9)
+  jekyll-seo-tag (~> 2.1)
   jemoji
-  minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
