@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<main role="main" class="container">
+  <div class="row">
+    <article class="col-md-8" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+        <div class="post-meta">
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ page.date | date: date_format }}
+          </time>
+          {%- if page.author -%}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name"> by {{ page.author | escape }}/span>
+            </span>
+            {%- endif -%}
+          </div>
+      </header>
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </article>
+    <aside class="col-md-4">
+      {%- include sidebar.html -%}
+    </aside>
+  </div>
+</main>
