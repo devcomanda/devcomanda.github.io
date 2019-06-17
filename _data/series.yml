@@ -27,3 +27,8 @@
   desc: |
     Коммандная работа:
   tag_name: teamgame  
+
+- name: DevOps
+  desc: |
+    Таинственный мир DevOps:
+  tag_name: devops
