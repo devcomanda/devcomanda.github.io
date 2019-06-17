@@ -1,0 +1,26 @@
+---
+layout: default
+title: 
+permalink: /speakers
+---
+<main role="main">
+  <div class="album py-5 bg-light">
+    <div class="container">
+      <div class="row">
+              {% for speaker in site.data.speakers %}
+              <div class="col-md-4">
+                  <div class="card mb-4 shadow-sm">
+                    <img class="card-img-top" src="{{ speaker.photo }}"/>
+                      <div class="card-body">
+                        <h5 class="card-title">{{ speaker.name }}</h5>
+                        <!-- <p class="card-text">
+                            {{ speaker.desc }}
+                        </p> -->
+                      </div>
+                  </div>
+              </div>   
+              {% endfor %}
+      </div> 
+    </div>
+  </div>
+</main>
