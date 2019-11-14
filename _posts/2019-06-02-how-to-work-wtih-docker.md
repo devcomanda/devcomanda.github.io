@@ -19,5 +19,7 @@ categories: [meetup, devops]
 
 - [slides]
 
+{% include embed-youtube.html src="https://www.youtube.com/embed/8pQEgBXhUIk" %}
+
 [telegram]: https://t.me/devcomanda
 [slides]: https://docs.google.com/presentation/d/1k0gwKVQbA9xGwugFLB_97prGQ4DU0l0OCj8vBY260-w/edit?usp=sharing
