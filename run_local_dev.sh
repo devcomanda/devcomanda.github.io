@@ -1,7 +1,7 @@
 #!/bin/sh
 
 JEKYLL_VERSION=4.0
-CONTAINER_NAME=jekyll-local-dev
+CONTAINER_NAME=jekyll-devcomanda-dev
 
 if [ ! "$(docker ps -a -q -f name=$CONTAINER_NAME)" ]; 
 then

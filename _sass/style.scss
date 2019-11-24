@@ -48,8 +48,6 @@ $on-large:         $on-laptop !default;
   font-size: $base-font-size * $ratio;
 }
 
-@charset "utf-8";
-
 
 /**
  * Reset some basic elements
@@ -331,7 +329,7 @@ $on-large:         $on-laptop !default;
 
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  // padding: $spacing-unit 0;
 }
 
 .footer-heading {
