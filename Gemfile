@@ -6,13 +6,13 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.9.3"
 
 gem 'commonmarker'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9"
-  gem "jekyll-seo-tag", "~> 2.1"
+  gem "jekyll-seo-tag", "~> 2.8"
   gem 'jemoji'
   gem "github-pages"
 end
